@@ -1,0 +1,22 @@
+.contenedor{
+    width: 70%;
+    background-color: aqua;
+    margin: auto;
+}
+
+.arriba{
+    background-color: rgb(234, 200, 32);
+}
+
+span{
+    display: flex;
+    justify-content: space-between;
+}
+
+.abajo{
+    display: flex;
+}
+
+.columnas{
+    display: flex;
+}
